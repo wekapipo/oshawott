@@ -61,6 +61,8 @@ means the 3rd thing in `list`
 
 part two is a bit harder. replace not only the thing at the location the user
 specified, but also the cells above, below, and to the left and right of it.
+make sure you don't go out of bounds when accessing a list. That means be
+careful when you're near the edge of a row or column
 
 #### example
 ```

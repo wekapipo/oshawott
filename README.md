@@ -98,6 +98,7 @@ part two is a bit harder. replace not only the thing at the location the user
 specified, but also the cells above, below, and to the left and right of it.
 
 #### example
+```
 How many rows do you want: 10
 How many cols do you want: 10
 Which x coordinate: 7
@@ -112,3 +113,4 @@ Which y coordinate: 7
 *******B**
 **********
 **********
+```

@@ -56,8 +56,10 @@ into the GitHub repo.
 
 ### resources
 
-* [learn python the hard way](http://learnpythonthehardway.org/book/) is a
+* ~~[learn python the hard way](http://learnpythonthehardway.org/book/)~~ is a
 really good book that's available online. teachs everything you need to know
+* [Dive Into Python 3](http://www.diveinto.org/python3/) is also a good book.
+less hands on tho. but still good
 
 ### explanation
 

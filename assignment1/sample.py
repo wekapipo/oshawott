@@ -1,4 +1,5 @@
 # define a "main" function that'll we'll run later
+#!/usr/bin/python
 def main():
 
     # prompt user for something (and take the result as an int: a number)

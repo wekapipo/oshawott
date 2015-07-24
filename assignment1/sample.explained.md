@@ -30,12 +30,17 @@ def main():
 ```
 define a `main` function we'll run later
 
+from:
 ```
-    num_rows = ~~int(input("How many rows do you want: "))~~
+    num_rows = int(input("How many rows do you want: "))
+```
+notice this:
+```
+    num_rows = 
 ```
 declare a variable num_rows and assign input to it
 ```
-    ~~num_rows = int(~~input("How many rows do you want: ")~~)~~
+    input("How many rows do you want: ")
 ```
 call a function `input`. A function looks like this: `func()` with some
 parameters: `func(param1, param2)`. This one has one parameter, a string (of
@@ -43,7 +48,7 @@ characters" that represents what the command prompt will say to the user.
 Strings are a type of data. Others include `int` (an integer, or number)
 `float` (a floating point i.e. decimal number) `char` a character
 ```
-    ~~num_cols = int(~~input("How many cols do you want: ")~~)~~
+    int(...)
 ```
 `int()` casts (converts) the parameter into a number. This is important because
 by default in Python 3 `input()` returns a string    

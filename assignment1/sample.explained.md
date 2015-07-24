@@ -1,4 +1,3 @@
-```
 The sample code (without the comments, you can read them by opening `setup.py`)
 ```
 def main():
